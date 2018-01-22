@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+
+##打印１－２０范围内的素数，共３个版本
 #version1
 for i in range(2,21):
     temp = 0
